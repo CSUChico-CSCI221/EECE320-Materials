@@ -80,6 +80,8 @@ We are going to investigate all the projects you turn in to look for code plagia
 
 The projects from this course are taken from a collection of projects included with the book, which are extremely good at having you apply the content and learn how the code you write actually runs on the computer architecture. As such over 100 universities use these projects, but it also means I'll be extremely rigorous in assessing your understanding and looking for students who found answers online. *DO NOT BE ONE OF THESE STUDENTS*
 
+All of the assignments will have 10 minute in class surveys, which will be 40% of the assignment grade, that will ask you to explain in detail aspects of how you solved each assignment. If you can not provide an adequate explaination or do not complete this survey you will receive a 0 on the entire assignment, unless you can provide a rigorous demonstration of your understanding of the assignment in question.  
+
 ## Programming Projects
 
 There will be about 6 assignments due at approximately 2 week intervals starting the second week of the semester.
