@@ -13,12 +13,14 @@
     <tr>
       <td width="100"><strong><h4>Assignment</h4></strong></td>
       <td width="150"><strong><h4>Due Date</h4></strong></td>
-      <td><strong><h4>Description</h4></strong></td>
+      <td><strong><h4>Write Up</h4></strong></td>
+      <td><strong><h4>Files</h4></strong></td>
     </tr>
     <tr>
       <td>Project 1</td>
       <td>February 11, 2018</td>
-      <td>Binary Puzzles</td>
+      <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab.pdf">Binary Puzzles</a></td>
+      <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab-handout.tar">Binary Puzzles</a></td>
     </tr>
     <tr>
       <td>Project 2</td>
