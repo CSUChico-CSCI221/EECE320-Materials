@@ -20,7 +20,7 @@
       <td>Project 1</td>
       <td>February 11, 2018</td>
       <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab.pdf">Binary Puzzles</a></td>
-      <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab-handout.tar">Binary Puzzles</a></td>
+      <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab-handout.tar">datalab-handout.tar</a></td>
     </tr>
     <tr>
       <td>Project 2</td>
