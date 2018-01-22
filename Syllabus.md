@@ -67,10 +67,9 @@ I will post your initial grades to [https://moodle.csuchico.edu](Moodle) once th
 
 + Exams 40% of course grade (1 midterm and a final)
 
-+ Programming Projects 50% of course grade
++ Programming Projects 55% of course grade
 
-+ Homeworks (Moodle Questions) 10% of course grade 
-  + If these don't happen, this will be folded into the Project Grade
++ Homeworks (Moodle Questions) 5% of course grade 
 
 + Lecture Attendance can improve/lower your grade (see above)
 
