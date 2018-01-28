@@ -16,12 +16,16 @@
 <table border="0">
   <tbody>
     <tr>
-      <td width="100"><strong><h4>Week</h4></strong></td>
-      <td><strong><h4>Readings</h4></strong></td>
+      <th width="100"><strong><h4>Week</h4></strong></th>
+      <th><strong><h4>Readings</h4></strong></th>
     </tr>
     <tr>
       <td>Week 1</td>
       <td>Chapter 1.1-1.6 & Chapter 2.1</td>
+    </tr>
+    <tr>
+      <td>Week 2</td>
+      <td>Chapter 2.2 - Chapter 2.3</td>
     </tr>
   </tbody>
 </table>  
