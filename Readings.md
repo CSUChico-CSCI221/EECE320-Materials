@@ -29,7 +29,7 @@
     </tr>
     <tr>
       <td>Week 3</td>
-      <td>Chapter 2.4</td>
+      <td>Chapter 2.4-2.5</td>
     </tr>
     <tr>
       <td>Week 4</td>
