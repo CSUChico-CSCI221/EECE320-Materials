@@ -27,5 +27,29 @@
       <td>Week 2</td>
       <td>Chapter 2.2 - Chapter 2.3</td>
     </tr>
+    <tr>
+      <td>Week 3</td>
+      <td>Chapter 2.4</td>
+    </tr>
+    <tr>
+      <td>Week 4</td>
+      <td>Chapter 3.1-3.7</td>
+    </tr>
+    <tr>
+      <td>Week 5</td>
+      <td>Chapter 3.8-3.10</td>
+    </tr>
+    <tr>
+      <td>Week 6</td>
+      <td>Chapter 3.11-3.12</td>
+    </tr>
+    <tr>
+      <td>Week 7</td>
+      <td>Chapter 5.1-5.7</td>
+    </tr>
+     <tr>
+      <td>Week 8</td>
+      <td>Chapter 5.8-5.10</td>
+    </tr>
   </tbody>
 </table>  
