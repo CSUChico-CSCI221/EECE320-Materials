@@ -15,17 +15,20 @@
       <td width="150"><strong><h4>Due Date</h4></strong></td>
       <td><strong><h4>Write Up</h4></strong></td>
       <td><strong><h4>Files</h4></strong></td>
+      <td><strong><h4>Other</h4></strong></td>
     </tr>
     <tr>
       <td>Project 1</td>
       <td>February 11, 2018</td>
       <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab.pdf">Binary Puzzles</a></td>
       <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab-handout.tar">datalab-handout.tar</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>Project 2</td>
       <td>March 4, 2018</td>
       <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/bomblab.pdf">Binary Bomb</a></td>
+  <td><a href="http://bryancdixon.com:15213">Get a Bomb (read write up for directions)</a></td>
       <td><a href="http://bryancdixon.com:15213/scoreboard">Scoreboard</a></td>
     </tr>
     <tr>
