@@ -25,7 +25,8 @@
     <tr>
       <td>Project 2</td>
       <td>March 4, 2018</td>
-      <td>Binary Bomb</td>
+      <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/bomblab.pdf">Binary Bomb</a></td>
+      <td><a href="http://bryancdixon.com:15213/scoreboard">Scoreboard</a></td>
     </tr>
     <tr>
       <td>Project 3</td>
