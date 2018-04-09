@@ -41,7 +41,7 @@
     <tr>
       <td>Project 5</td>
       <td>April 22, 2018</td>
-      <td>Performance Lab</td>
+      <td><a href="https://github.com/CSUChico-CSCI221/CSCI221-PerfLab/blob/master/README.md">Performance Lab</a></td>
     </tr>
     <tr>
       <td>Project 6</td>
