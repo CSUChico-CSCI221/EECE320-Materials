@@ -47,7 +47,8 @@
     <tr>
       <td>Project 6</td>
       <td>May 12, 2018</td>
-      <td>Malloc Lab</td>
+      <td><a href="https://github.com/CSUChico-CSCI221/EECE320-MallocLab">Malloc Lab</a></td>
+      <td><a href="https://github.com/CSUChico-CSCI221/EECE320-MallocLab">Malloc Lab Files</a></td>
     </tr>
   </tbody>
 </table>  
