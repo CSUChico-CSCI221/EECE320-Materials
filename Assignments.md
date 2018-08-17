@@ -21,14 +21,14 @@
       <td>Project 1</td>
       <td>September 9, 2018</td>
       <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab.pdf">Binary Puzzles Part 1</a></td>
-      <td><a href="datalab1.tar">datalab1.tar</a></td>
+      <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab1.tar">datalab1.tar</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Project 2</td>
       <td>September 16, 2018</td>
       <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab.pdf">Binary Puzzles Part 2</a></td>
-      <td><a href="datalab2.tar">datalab2.tar</a></td>
+      <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab2.tar">datalab2.tar</a></td>
       <td></td>
     </tr>
     <tr>
