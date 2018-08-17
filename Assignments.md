@@ -28,7 +28,7 @@
       <td>Project 2</td>
       <td>September 16, 2018</td>
       <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab.pdf">Binary Puzzles Part 2</a></td>
-      <td><a href="">datalab-handout.tar</a></td>
+      <td><a href="datalab2.tar">datalab2.tar</a></td>
       <td></td>
     </tr>
     <tr>
