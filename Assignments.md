@@ -22,26 +22,26 @@
       <td>September 9, 2018</td>
       <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab.pdf">Binary Puzzles Part 1</a></td>
       <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab1.tar">datalab1.tar</a></td>
-      <td></td>
+      <td><a href="https://datalab1.bryancdixon.com">Beat the Prof DataLab 1</a></td>
     </tr>
     <tr>
       <td>Project 1 - Part 2</td>
       <td>September 16, 2018</td>
       <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab.pdf">Binary Puzzles Part 2</a></td>
       <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab2.tar">datalab2.tar</a></td>
-      <td></td>
+      <td><a href="https://datalab2.bryancdixon.com">Beat the Prof DataLab 2</a></td>
     </tr>
     <tr>
       <td>Project 2</td>
       <td>October 14, 2018</td>
-      <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/bomblab.pdf">Binary Bomb</a></td>
+      <td><a href="">Binary Bomb</a></td>
   <td>read write up for directions on getting a bomb</td>
       <td><a href="">Scoreboard</a></td>
     </tr>
     <tr>
       <td>Project 3</td>
       <td>November 4, 2018</td>
-      <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/attacklab.pdf">64-bit Attack Lab</a></td>
+      <td><a href="">64-bit Attack Lab</a></td>
       <td>read write up for directions on getting project files</td>
       <td><a href="">Scoreboard</a></td>
     </tr>
