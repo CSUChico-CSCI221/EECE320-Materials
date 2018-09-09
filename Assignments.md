@@ -34,9 +34,9 @@
     <tr>
       <td>Project 2</td>
       <td>October 14, 2018</td>
-      <td><a href="">Binary Bomb</a></td>
+      <td><a href="https://github.com/CSUChico-CSCI221/BinaryBombWriteUp/blob/master/README.md">Binary Bomb</a></td>
   <td>read write up for directions on getting a bomb</td>
-      <td><a href="">Scoreboard</a></td>
+      <td><a href="http://bomblab.bryancdixon.com:15213/scoreboard">Scoreboard</a></td>
     </tr>
     <tr>
       <td>Project 3</td>
