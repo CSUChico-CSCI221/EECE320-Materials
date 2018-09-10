@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td>Project 1 - Part 2</td>
-      <td>September 16, 2018</td>
+      <td>September 23, 2018</td>
       <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab.pdf">Binary Puzzles Part 2</a></td>
       <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/datalab2.tar">datalab2.tar</a></td>
       <td><a href="https://datalab2.bryancdixon.com">Beat the Prof DataLab 2</a></td>
