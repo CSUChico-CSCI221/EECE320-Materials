@@ -41,9 +41,9 @@
     <tr>
       <td>Project 3</td>
       <td>November 4, 2018</td>
-      <td><a href="">64-bit Attack Lab</a></td>
+      <td><a href="https://github.com/CSUChico-CSCI221/EECE320-Materials/raw/master/attacklab.pdf">64-bit Attack Lab</a></td>
       <td>read write up for directions on getting project files</td>
-      <td><a href="">Scoreboard</a></td>
+      <td><a href="http://attacklab.bryancdixon.com:15513/scoreboard">Scoreboard</a></td>
     </tr>
     <tr>
       <td>Project 4</td>
